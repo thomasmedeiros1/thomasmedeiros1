@@ -1,4 +1,5 @@
-## Olá, eu sou Thomas Jefferson! 👋 
+
+### Olá, eu sou Thomas Jefferson! 👋 
 
 [![blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]()
 [![You Tube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
@@ -6,7 +7,7 @@
 
 ![Thomas Jefferson GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasmedeiros1&show_icons=true&theme=dracula)
 
-## Tecnologias que eu uso no meu dia-a-dia:
+### Tecnologias que eu uso no meu dia-a-dia:
 
 <div style= "display: inline_block"><br/>
     <img align="center" alt="phyton" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
