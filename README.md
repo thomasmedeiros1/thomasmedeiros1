@@ -2,7 +2,7 @@
 ### Olá, eu sou Thomas Jefferson! 👋 
 
 [![You Tube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/011.medeiros/#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codando_com_tom/#)
 
 ![Thomas Jefferson GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasmedeiros1&show_icons=true&theme=dracula)
 
