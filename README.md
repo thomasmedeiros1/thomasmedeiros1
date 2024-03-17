@@ -15,6 +15,6 @@
    <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-Atualmente estou estudando muito através de cursos, e tambem estou iniciando minha faculdade de engenharia da computação.
+Atualmente estou cursando engenharia de software e estudando através de cursos.
 
 
